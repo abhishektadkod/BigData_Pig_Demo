@@ -1,0 +1,8 @@
+001,Chetana,Bhat,21,9848022337,Hyderabad,89 
+002,Abhishek,Tadkod,22,9848022338,Kolkata,78 
+003,Jayanth,Apagundi,22,9848022339,Delhi,90 
+004,Akshay,Raichur,21,9848022330,Pune,93 
+005,Faraaz,Khatib,23,9848022336,Bhuwaneshwar,75 
+006,Cheryl,Dsouza,23,9848022335,Chennai,87 
+007,Shreya,Gadataranavar,24,9848022334,trivendram,83 
+008,Humaid,Desai,24,9848022333,Chennai,72 
